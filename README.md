@@ -59,9 +59,7 @@ npm run set:vrt
 ## Project structure
 TBA...
 
-![OPLO](https://www.cognizantsoftvision.com/wp-content/uploads/2017/10/05233246/AAEAAQAAAAAAAA0-AAAAJGIwM2QxZTk3LTRmMTItNDU0Ny1hMTYzLWVmY2Q3NzhlYWU0Ng.png "OPLO" )
-
-<img src="https://i.giphy.com/media/9XzgLKwgJCsW9ra7aX/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/9XzgLKwgJCsW9ra7aX.gif';" alt=""><img src="https://i.giphy.com/media/319s4ds2BBT1QqWceU/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/319s4ds2BBT1QqWceU.gif';" alt=""><img src="https://media2.giphy.com/media/Ap2eq2OHLfXTrQEduQ/giphy.gif" alt="Design Letter GIF" style="width: 480px; height: 480px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://i.giphy.com/media/Ap2eq2OHLfXTrQEduQ/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/Ap2eq2OHLfXTrQEduQ.gif';" alt=""><img src="https://i.giphy.com/media/319s4ds2BBT1QqWceU/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/319s4ds2BBT1QqWceU.gif';" alt=""><img src="https://i.giphy.com/media/9XzgLKwgJCsW9ra7aX/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/9XzgLKwgJCsW9ra7aX.gif';" alt="">
 
 
 
