@@ -1,5 +1,5 @@
+<p align="center> OPLO-CONNECT-AUTOMATION-TEST</p>
 
-# OPLO-CONNECT-AUTOMATION-TEST 
 <p align="center">
   <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUwQwbWa73Z8Yv236hU5O78ZcZQdTPFNYjw&usqp=CAU">
 </p>
@@ -37,8 +37,13 @@ npm run test:vrt
 npm run set:vrt
 ```
 
-## External references to Nightwatch.js
+## External references 
+### Nightwatch.js
 #### [Homepage](https://nightwatchjs.org) &bullet; [Getting Started](https://nightwatchjs.org/gettingstarted) &bullet; [Developer Guide](https://nightwatchjs.org/guide) &bullet; [API Reference](https://nightwatchjs.org/api) &bullet; [About](https://nightwatchjs.org/about)
+
+### Mocha and Chai
+
+### Axios
 
 
 ## Project structure
