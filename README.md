@@ -3,6 +3,9 @@
 <p align="center">
   <img width="460" height="300" src="http://gph.is/SkI3MM">
 </p>
+
+<iframe src="https://giphy.com/embed/gw3IWyGkC0rsazTi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/test-gw3IWyGkC0rsazTi">via GIPHY</a></p>
+
 <p align="center"><i>This repository contains tests for the Oplo Connect platform. It is design to cover functional and visual testing. </i></p>
 
 ## Get you started
