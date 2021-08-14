@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
 </p>
 
-<p align="center"><i>This repository contains tests for the Oplo platform. It is design to cover functional and visual regression testing aspects of software development and delivery at Oplo Group. </i></p>
+<p align="center"><i>This repository contains tests to suport Oplo platforms. It is design to cover functional and visual regression testing aspects of software development and delivery at Oplo Group. </i></p>
 
 ## Version overview
 
