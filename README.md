@@ -13,7 +13,7 @@
 
 ## Version overview
 
-The current version does not yet have browser stack integration. Runs on very basic setting with chromedriver to enable test writing.
+The current version is very basic and does not yet have any environment in place. Runs on very basic setting with chromedriver to enable setups and test writing.
 
 ## Get started
 
