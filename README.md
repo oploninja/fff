@@ -28,9 +28,8 @@ npm run test
 ```
 
 * To run tests with report generated from '.tests' folder
-** Subject of change - will require to run within the "tests" and "test:vrt" commands
 ```
-npx nightwatch --reporter html-reporter.js 
+npx nightwatch --reporter html-reporter.js  //Subject of change - will require to run within the "tests" and "test:vrt" commands
 ```
 
 * To run visual regression tests from '.vrt-tests' folder
