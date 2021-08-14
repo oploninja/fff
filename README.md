@@ -4,8 +4,6 @@
   <img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
 </p>
 
-<img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
-
 <p align="center"><i>This repository contains tests for the Oplo Connect platform. It is design to cover functional and visual testing. </i></p>
 
 ## Get you started
