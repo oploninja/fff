@@ -1,8 +1,8 @@
-#  <p align="center"><strong><b> OPLO-CONNECT-AUTOMATION-TEST</b></strong></p>
-
 <p align="center">
   <img src="https://www.myoplo.co.uk/wp-content/themes/oplo/images/logo-col.png" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
 </p>
+
+#  <p align="center"><strong><b> OPLO-CONNECT-AUTOMATION-TEST</b></strong></p>
 
 <p align="center"><i>This repository contains tests to suport Oplo platforms. It is design to cover functional and visual regression testing aspects of software development and delivery at Oplo Group. </i></p>
 
