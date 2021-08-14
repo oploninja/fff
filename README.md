@@ -4,7 +4,11 @@
   <img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
 </p>
 
-<p align="center"><i>This repository contains tests for the Oplo Connect platform. It is design to cover functional and visual testing. </i></p>
+<p align="center"><i>This repository contains tests for the Oplo platform. It is design to cover functional and visual regression testing aspects of software development and delivery at Oplo Group. </i></p>
+
+## Version overview
+
+The current version does not yet have browser stack integration. Runs on very basic setting with chromedriver to enable test writing.
 
 ## Get started
 
@@ -24,6 +28,7 @@ npm run test
 ```
 
 * To run tests with report generated from '.tests' folder
+** Subject of change - will require to run within the "tests" and "test:vrt" commands
 ```
 npx nightwatch --reporter html-reporter.js 
 ```
