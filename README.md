@@ -4,7 +4,7 @@
   <img width="460" height="300" src="http://gph.is/SkI3MM">
 </p>
 
-<img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
+<img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="" align="center">
 
 <p align="center"><i>This repository contains tests for the Oplo Connect platform. It is design to cover functional and visual testing. </i></p>
 
