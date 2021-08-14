@@ -1,10 +1,10 @@
 <p align="center"><strong><b> OPLO-CONNECT-AUTOMATION-TEST</b></strong></p>
 
 <p align="center">
-  <img width="460" height="300" src="http://gph.is/SkI3MM">
+  <img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
 </p>
 
-<img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="" align="center">
+<img src="https://i.giphy.com/media/gw3IWyGkC0rsazTi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/gw3IWyGkC0rsazTi.gif';" alt="">
 
 <p align="center"><i>This repository contains tests for the Oplo Connect platform. It is design to cover functional and visual testing. </i></p>
 
