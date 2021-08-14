@@ -1,4 +1,4 @@
-<h align="center"> OPLO-CONNECT-AUTOMATION-TEST</h>
+<p align="center"><b> OPLO-CONNECT-AUTOMATION-TEST</b></p>
 
 <p align="center">
   <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUwQwbWa73Z8Yv236hU5O78ZcZQdTPFNYjw&usqp=CAU">
