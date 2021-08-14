@@ -6,7 +6,7 @@
 
 <p align="center"><i>This repository contains tests for the Oplo Connect platform. It is design to cover functional and visual testing. </i></p>
 
-## Get you started
+## Get started
 
 To run the project you will need to:
 
