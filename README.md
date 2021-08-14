@@ -59,7 +59,7 @@ npm run set:vrt
 ## Project structure
 TBA...
 
-<img src="https://i.giphy.com/media/Ap2eq2OHLfXTrQEduQ/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/Ap2eq2OHLfXTrQEduQ.gif';" alt="" width="350px" height="350px"><img src="https://i.giphy.com/media/319s4ds2BBT1QqWceU/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/319s4ds2BBT1QqWceU.gif';" alt="" width="350px" height="350px"><img src="https://i.giphy.com/media/9XzgLKwgJCsW9ra7aX/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/9XzgLKwgJCsW9ra7aX.gif';" alt="" width="350px" height="350px">
+<img src="https://i.giphy.com/media/Ap2eq2OHLfXTrQEduQ/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/Ap2eq2OHLfXTrQEduQ.gif';" alt="" width="320px" height="320px"><img src="https://i.giphy.com/media/319s4ds2BBT1QqWceU/giphy-downsized.gif" onerror="this.onerror=null;this.src='https://i.giphy.com/319s4ds2BBT1QqWceU.gif';" alt="" width="320px" height="320px"><img src="https://i.giphy.com/media/9XzgLKwgJCsW9ra7aX/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/9XzgLKwgJCsW9ra7aX.gif';" alt="" width="320px" height="320px">
 
 
 
